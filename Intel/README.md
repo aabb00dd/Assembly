@@ -41,5 +41,3 @@ This is a test program that demonstrates the functionality of the buffer I/O rou
 6. Displays a hardcoded number (125)
 7. Shows an end message
 
-## License
-This project is proprietary and not available for public modification or distribution.
