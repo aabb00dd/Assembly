@@ -37,8 +37,3 @@ This program calculates and prints the factorial of numbers from 1 to 10 using t
 - `print_number`: Prints a number followed by a newline.
 - `factorial_calculator`: Recursively calculates the factorial of a number.
 - `main`: Entry point that iterates from 1 to 10, computes factorials, and prints them.
-
----
-
-## License
-This project is proprietary and not available for public modification or distribution.
