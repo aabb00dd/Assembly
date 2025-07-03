@@ -4,13 +4,6 @@ Welcome to my GitHub repository for a school projects where I developed code for
 
 ## About the Project
 
-This repository includes:
-
-- Intel x86 Assembly programs
-- ARM Assembly programs
-- Comments and documentation for better understanding
-- Example use cases and outputs where applicable
-
 The goal of this project was to learn and demonstrate:
 
 - Low-level programming on different architectures
